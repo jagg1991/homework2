@@ -1,4 +1,14 @@
 
+.aboutme{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.london{
+  background-color: black;
+}
 .pad{
   
   align-items: center;
@@ -22,11 +32,6 @@
   padding-top: 50px;
 }
 
-.welcome{
-  background-color: black;
-  max-resolution: 70%;
-}
-
 .projectstart{
   background-color: white;
   border: #222 1px solid;
@@ -35,4 +40,17 @@
   padding: 10px 10px 10px 10px;
   margin: 20px;
   text-align: center;
+}
+
+.contactbody{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.home{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
