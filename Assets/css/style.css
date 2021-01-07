@@ -1,0 +1,38 @@
+
+.pad{
+  
+  align-items: center;
+  padding: 10px 5px 5px 10px;
+}
+
+.container{
+  flex-direction: column;
+  width: 300px;
+  height: auto;
+  width: 300px;
+  border: 1px solid black;
+  margin: 50px;
+  background-color: whitesmoke;
+}
+.box
+{
+ 
+}
+.input1{
+  padding-top: 50px;
+}
+
+.welcome{
+  background-color: black;
+  max-resolution: 70%;
+}
+
+.projectstart{
+  background-color: white;
+  border: #222 1px solid;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px 10px 10px 10px;
+  margin: 20px;
+  text-align: center;
+}
