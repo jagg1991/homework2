@@ -18,6 +18,14 @@ On the contact page, you will be able to email me with any questions or concerns
 
 links to my LinkedIn, and GitHub pages. 
 
+## Languages used
+
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Bootstrap
+- Fontawesome
 
 
 ## Here is a screen shot of my home page!
