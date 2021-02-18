@@ -55,19 +55,18 @@
 }
 .card{
   margin: 10px;
-  float:inline-end;
+
   width: 75%;
   padding: 10px;
-  background-color: rgb(132, 202, 193);
-  text-align: center;
- 
+  background-color: rgb(161, 219, 211);
+
 }
 
 .results{
   margin: 5px;
-  padding: 10px 24px;
-  /* background-color: black;
-  color: antiquewhite; */
+  /* padding: 10px 24px; */
+  background-color: black;
+  color: antiquewhite;
 }
 
 
@@ -76,3 +75,9 @@
  
  width: 75%;
 }
+.jumbotron{
+  background-color: black;
+  text-align: center;
+  color: whitesmoke;
+}
+
