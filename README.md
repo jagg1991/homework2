@@ -17,5 +17,5 @@ On the contact page, you will be able to email me with any questions or concerns
 
 ## Check out my portfolio!
 
-![https://jagg1991.github.io/](https://jagg1991.github.io/)
+[https://jagg1991.github.io/](https://jagg1991.github.io/)
 
