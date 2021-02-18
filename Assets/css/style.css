@@ -16,18 +16,17 @@
 }
 
 .container{
-  flex-direction: column;
-  width: 300px;
+  width: 75%;
   height: auto;
-  width: 300px;
   border: 1px solid black;
-  margin: 50px;
-  background-color: whitesmoke;
-}
-.box
-{
  
+  margin-top: 50px;
+  background-color: rgb(132, 202, 193);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  float:inline-end;
+  align-items: center;
 }
+
 .input1{
   padding-top: 50px;
 }
@@ -37,9 +36,9 @@
   border: #222 1px solid;
   width: fit-content;
   height: fit-content;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
   margin: 20px;
-  text-align: center;
+  text-align:inherit;
 }
 
 .contactbody{
@@ -53,4 +52,27 @@
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+}
+.card{
+  margin: 10px;
+  float:inline-end;
+  width: 75%;
+  padding: 10px;
+  background-color: rgb(132, 202, 193);
+  text-align: center;
+ 
+}
+
+.results{
+  margin: 5px;
+  padding: 10px 24px;
+  /* background-color: black;
+  color: antiquewhite; */
+}
+
+
+
+.card-body{
+ 
+ width: 75%;
 }
