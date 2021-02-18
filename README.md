@@ -13,7 +13,7 @@ On the about me page, you will see my passion for travel. There are images of me
 On the contact page, you will be able to email me with any questions or concerns you may have. 
 
 ## Here is a screen shot of my home page!
-![](Images/screenshot)
+![](Assets/Images/screenshot.png)
 
 ## Check out my portfolio!
 
