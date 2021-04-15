@@ -1,0 +1,120 @@
+
+.aboutme{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.london{
+  background-color: black;
+}
+.pad{
+  
+  align-items: center;
+  padding: 10px 5px 5px 10px;
+}
+
+.container{
+  width: 75%;
+  height: auto;
+  border: 1px solid black;
+ 
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: rgb(132, 202, 193);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  float:inline-end;
+  align-items: center;
+}
+
+.input1{
+  padding-top: 50px;
+}
+
+.projectstart{
+  background-color: white;
+  border: #222 1px solid;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  margin: 20px;
+  text-align:inherit;
+}
+
+.contactbody{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.home{
+  background-image: url('beach.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.card{
+  margin: 10px;
+  margin-bottom: 100px;
+  margin-left: 40px;
+  margin-top: 40px;
+  width: 75%;
+  padding: 10px;
+  background-color: rgb(161, 219, 211);
+  align-items: center;
+
+}
+
+.results{
+  margin: 5px;
+  /* padding: 10px 24px; */
+  background-color: black;
+  color: antiquewhite;
+}
+
+
+
+.card-body{
+ 
+ width: 75%;
+}
+.jumbotron{
+  background-color: black;
+  text-align: center;
+  color: whitesmoke;
+  border-bottom: solid 5px #000e91;
+}
+a:hover{
+  color: rgb(51, 126, 145);
+  font-size: 150%;
+}
+
+footer{
+  left: 0;
+  right: 0;
+  bottom: 1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100%;
+  color: whitesmoke;
+  text-align: center;
+  font-size: smaller;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  border-top: solid 5px #000e91;
+position: relative;
+  
+}
+
+
+#assign-it{
+  background-image:  url('assign-it.png');
+  background-size: 100% ;
+  }
+
+  .card-header{
+   background-color: black;
+   color: white;
+  }
+
