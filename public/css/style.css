@@ -16,13 +16,16 @@
 .container{
   width: 75%;
   height: auto;
-  border: 1px solid black; 
+
   margin-top: 50px;
   margin-bottom: 50px;
-  background-color: rgb(25, 92, 83);
+
+  background: linear-gradient(115deg, #56d8e4 10%, #006168 90%);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   float:inline-end;
   align-items: center;
+  border-style: inset;
+  border-radius: 12px 1px;
 }
 
 .input1{
@@ -58,7 +61,7 @@
   margin-top: 40px;
   width: 75%;
   padding: 10px;
-  background-color: rgb(226, 226, 226);
+  background: linear-gradient(115deg, #c9c9c9 10%, #4d4d4d 90%);
   align-items: center;
   box-sizing: border-box;
   border-bottom: 1px solid rgba(0,0,0,.125);
@@ -130,3 +133,8 @@ position: relative;
     width: 100%;
     background-color: black;
   }
+
+  .img {
+    max-width:100%;height:auto;
+  }
+ 

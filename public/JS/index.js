@@ -14,7 +14,7 @@ function getApi() {
             //for loop to get data for respitories
             for (i = 0; i < data.length; i++) {
                 console.log(data[i].html_url);
-                var li = $('<li>')
+                var li = $('<div>')
                 button = $('<button>').addClass('results btn btn-secondary').attr('url', data[i].html_url).text(data[i].name)
                 // li.append(button)
                 $('#resp').append(li);
